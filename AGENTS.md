@@ -11,3 +11,8 @@ Instruções incrementais para referências visuais. Consultar antes o README e 
 - Escopo: Portal web: melhorar hierarquia da Home, funis e estados de navegação com responsividade; preservar identidade, dados e rotas do serviço.
 - Implementar mudanças funcionais só em PRs pequenas com gates existentes, QA em 390/1440 quando houver UI e fallback sem animação. Preservar SEO, privacidade, dados, integrações e produção.
 - Não instalar CLIs, skills, pacotes externos ou serviços pagos de forma automática. Regras existentes do projeto têm precedência.
+
+
+## Cérebro compartilhado de referências (20/11/2026)
+
+Para novas tarefas pertinentes de motion, QA visual, acessibilidade, React ou auditoria, consultar `.agents/skills/shared-reference-intelligence/SKILL.md`. Reutilizar as regras e capacidades locais; não instalar ferramentas, copiar Gists, acionar Lovable Max, alterar dados ou publicar por esta diretriz. Em UI, usar somente efeitos úteis e preservar os gates existentes.
