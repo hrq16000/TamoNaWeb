@@ -214,7 +214,7 @@ const Footer = () => {
           </div>
           <div className="text-center text-xs text-primary-foreground/40">
             <p>© 2026 Preciso de um. Todos os direitos reservados.</p>
-            <p className="mt-1">CNPJ: 41.723.708/0001-58 — Ping Soluções · <a href="https://mestredosservicos.com.br" target="_blank" rel="noopener noreferrer" className="hover:text-primary-foreground/70">mestredosservicos.com.br</a></p>
+            <p className="mt-1">CNPJ: 41.723.708/0001-58 · <a href="https://mestredosservicos.com.br" target="_blank" rel="noopener noreferrer" className="hover:text-primary-foreground/70">mestredosservicos.com.br</a></p>
           </div>
         </div>
       </div>
